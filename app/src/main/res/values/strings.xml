@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BeWell</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Log In</string>
+    <string name="menu_report">Report</string>
+    <string name="menu_gallery">Homepage</string>
+    <string name="menu_slideshow">Information\'s</string>
+    <string name="menu_test">Report</string>
+    <string name="bullet_list">Some of this are:\n•Spreading lies about or posting embarrassing photos or videos of someone on social media\n•Spreading hurtful, abusive or threatening messages, images or video via messaging platforms\n•Impersonating someone and sending mean messages to other on their behalf or through fake accounts
+</string>
+    <string name="millions"><big><b>Millions of people have a lot of question about this topic and according to UNICEF the top ten (10) questions asked are:</b></big>
+        \nI. Am I being bullied online? How do you tell the difference between a joke bullying?\nII.	What are the effects of cyberbullying?\nIII.	How can Cyberbullying affect my mental health?\nIV.	Who should I talk to if someone is bullying me online? Why is reporting important?\nV.	I\'m experiencing cyberbullying, but I\'m afraid to talk to my parents about it. How can I approach them?\nVI.	How can I help my friends report a case of cyberbullying especially if they don’t want to do it?\nVII.	How do we stop cyberbullying without giving up access to the internet?\nVIII.	How do I prevent my personal information from being used to manipulate or humiliate me on social media?\nIX.	Is there a punishment for Cyberbullying?\nX.	Technology companies don’t seem to care about online bullying harassment. Are they being held responsible?
+</string>
+    <string name="nature"><big><b>NATURE OF CYBERBULLYING</b></big>
+        \nTraditional face to face bullying has long been recognized as a risk factor for social and emotional development of bullies, targets and bully victims during childhood and adolescence; observers are also known to be adversely affected. The advent of cyberbullying shows that offenders have turned to technology (particularly mobile phones and the internet) as a potent tool of exercising their power and control over others. Cyberbullies have the ability to reach their targets day or night.
+</string>
+    <string name="common"><big><b>The most common places where cyberbullying occurs are:</b></big>
+
+\n•	Social 	Media, such as Facebook, Instagram, Snapchat, and TikTok
+\n•	Text messaging and messaging apps on mobile or tablets device
+\n•	Instant messaging, direct messaging, and online chatting over the internet
+\n•	Online forums, chat rooms, and message boards, such as Reddit
+\n•	Email
+\n•	Online gaming communities
+</string>
+    <string name="orientation"><big><b>Cyberbullying by Sex and Sexual Orientation</b></big>
+
+\nCyberbullying statistics differ among various groups, including:
+\n•	Girls and boy\'s bot reported similar numbers when asked if they have been cyberbullied, at 23.7% and 21.9%, respectively.
+\n•	LGBTQ adolescents report cyberbullying at higher rates, at 31.7% According to other reports, up to 56% of young people who identify as LGBTQ have experience cyberbullying.
+\n•	Transgender teens were the most likely to be cyberbullied, at the significantly high rate of 35.4%.
+</string>
+    <string name="help"><big><b>ASKING FOR ADULT HELP</b></big>
+\nBy prohibiting some websites and imposing age-appropriate restrictions on computer and internet use parents can play a significant role in prevention. Inconsistent parental supervision has been linked to an increased risk for children to engage in traditional and online bullying either as perpetrators or targets. However, once cyberbullying has started, adults could be less successful in dealing with it.
+</string>
+    <string name="occurs"><big><b>What to when cyberbullying occurs?</b></big>
+\n1.	Don\'t respond or retaliate: It\'s important not to respond to cyberbullying as this can often escalate the situation.
+\n2.	Save the evidence: Keep a record of any messages, comments, or posts that were hurtful or abusive. This can be used as evidence later if necessary.
+\n3.	Block the cyberbully: If the cyberbully is someone you know, block them from your social media accounts or any other platforms where they can contact you.
+\n4.	Report the cyberbullying: Most social media platforms have options to report bullying and harassment. Use this feature to alert the platform and seek help.
+\n5.	Seek support: Talk to someone you trust, such as a friend, family member, teacher, or counselor. They can provide emotional support and help you develop a plan to address the situation.
+\n6.	Consider involving law enforcement: In some cases, cyberbullying can be a crime. If bullying includes threats or involves illegal activity, contact your local law enforcement agency.
+</string>
+</resources>
